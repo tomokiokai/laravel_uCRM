@@ -3,6 +3,7 @@ resources/js/Pages/Inertia/Create.vue
 import { reactive } from 'vue'
 import { Inertia } from '@inertiajs/inertia'
 
+
 defineProps({
   errors: Object
 })
